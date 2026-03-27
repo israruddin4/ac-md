@@ -1,7 +1,6 @@
 # ac-md
 This a private testing bot of my new projects. 
-## 
-project structure
+## project structure
 awesome-whatsapp-bot/
 ├── app.js
 ├── package.json
