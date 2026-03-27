@@ -1,0 +1,16 @@
+node_modules/
+sessions/
+temp/
+logs/
+database/
+.env
+.env.local
+.env.production
+package-lock.json
+yarn.lock
+*.log
+.DS_Store
+.vscode/
+.idea/
+*.db
+*.sqlite
